@@ -1,0 +1,44 @@
+*{
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(bg.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.clock {
+    font-family: "Arial", sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .digits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  
+  .digits span {
+    padding: 0 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  
+  
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f1f1f1;
+}  
+
+
+  
+  
+  
+  
